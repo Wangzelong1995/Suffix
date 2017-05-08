@@ -1,0 +1,6 @@
+﻿  suffix.cpp
+c:\users\maki\documents\visual studio 2015\projects\suffix\suffix\suffix.cpp(8): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\maki\documents\visual studio 2015\projects\suffix\suffix\suffix.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\maki\documents\visual studio 2015\projects\suffix\suffix\suffix.cpp(67): warning C4018: “>”: 有符号/无符号不匹配
+  suffix.vcxproj -> c:\users\maki\documents\visual studio 2015\Projects\suffix\Debug\suffix.exe
+  suffix.vcxproj -> c:\users\maki\documents\visual studio 2015\Projects\suffix\Debug\suffix.pdb (Partial PDB)
