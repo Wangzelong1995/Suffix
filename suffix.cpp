@@ -28,7 +28,7 @@ int Suffix::str2int(string s) {
 
 Suffix::Suffix()
 {
-	//Establish the suffix dic
+	//Establish the suffix dictionary
 
 	string fileName = "dictionary.txt";
 	ifstream file("res\\" + fileName);
