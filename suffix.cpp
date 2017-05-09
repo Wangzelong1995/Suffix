@@ -1,3 +1,6 @@
+//This is for the task of 5.8.
+//5130309427  王泽龙
+
 #include "Suffix.h"
 
 bool Suffix::inSuffixDic(string s) {
